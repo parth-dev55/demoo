@@ -1,0 +1,6 @@
+{
+  "name": "AgriGPT",
+  "description": "AI Copilot for Smart & Sustainable Farming",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

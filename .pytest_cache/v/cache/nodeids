@@ -1,0 +1,13 @@
+[
+  "backend/tests/test_api.py::test_advisor_chat",
+  "backend/tests/test_api.py::test_dashboard_endpoint",
+  "backend/tests/test_api.py::test_disease_scan_base64",
+  "backend/tests/test_api.py::test_farm_crud",
+  "backend/tests/test_api.py::test_field_and_crop_flow",
+  "backend/tests/test_api.py::test_health_check",
+  "backend/tests/test_api.py::test_openapi_docs",
+  "backend/tests/test_api.py::test_predictions_endpoint",
+  "backend/tests/test_api.py::test_recommendations_and_early_warning",
+  "backend/tests/test_api.py::test_soil_readings",
+  "backend/tests/test_api.py::test_weather_endpoint"
+]
